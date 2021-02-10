@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "23A52BD7-C4C5-48F8-A625-3DCFCF0DEBA7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "410CD929-068C-46A1-B157-9094B5477C22"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Quiz15_NavigationControl_On_Off/EidtViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "EidtViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "410CD929-068C-46A1-B157-9094B5477C22 - f9f9daa487266ecb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quiz15_NavigationControl_On_Off.EidtViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Quiz15_NavigationControl_On_Off.EidtViewController"
+                  moduleName = "Quiz15_NavigationControl_On_Off"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/derrick/Desktop/GitHub/Swift/Project/iOS/Quiz15_NavigationControl_On_Off/Quiz15_NavigationControl_On_Off/EidtViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "508">
+               </Location>
+               <Location
+                  uuid = "410CD929-068C-46A1-B157-9094B5477C22 - 12804e9db5b1d283"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quiz15_NavigationControl_On_Off.EidtViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Quiz15_NavigationControl_On_Off.EidtViewController&gt;"
+                  moduleName = "Quiz15_NavigationControl_On_Off"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/derrick/Desktop/GitHub/Swift/Project/iOS/Quiz15_NavigationControl_On_Off/Quiz15_NavigationControl_On_Off/EidtViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "449">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
